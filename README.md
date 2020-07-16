@@ -1,6 +1,5 @@
 # livestream-ideas
-
-segment ideas for https://www.twitch.tv/benawad
+possible segments for https://www.twitch.tv/benawad
 
 ## Current Ideas
 
