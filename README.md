@@ -9,7 +9,7 @@ possible segments for https://www.twitch.tv/benawad
 
 ### Dev Debate
 
-1. Some how a topic is picked (Tabs vs Spaces)
+1. Some how a topic is picked (Microservices vs. Monolith)
 2. I debate someone for a max of 30 minutes
 3. At the end of Twitch chat votes who won
 4. If I win the other person has to sub to me on Twitch otherwise I have to PayPal them $20
