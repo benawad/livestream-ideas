@@ -24,7 +24,8 @@ I'll be adding more ideas here as I think of them.
 
 ### Pair programming with random person
 
-- Seems to always turn out meh. Either the person is boring, the question they ask is boring, they have trouble setting up their dev env, they have a slow computer, I don't know the programming language, etc... You do get some good ones mixed in there, but it's rare.
+- Seems to always turn out meh. Either the person is boring, the question they ask is boring, they have trouble setting up their dev env, they have a slow computer, I don't know the programming language, etc... 
+- You do get some good ones mixed in there, but it's rare.
 
 ### Coding on a project
 
