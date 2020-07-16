@@ -30,4 +30,4 @@ I'll be adding more ideas here as I think of them.
 
 ![livestreaming code is boring](https://github.com/benawad/livestream-ideas/blob/master/livestream-code.jpg?raw=true)
 
-It would be great if this was an option, but is pretty meh until you're a HUGE streamer. 
+It would be great if this was an option, but it's pretty meh until you're a HUGE streamer. 
