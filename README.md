@@ -7,6 +7,14 @@ possible segments for https://www.twitch.tv/benawad
 
 - Requires the person being taught to be clickbaitable
 
+### Tech News
+
+- I go over today's HN & Reddit posts
+
+I'll be adding more ideas here as I think of them.
+
+## Sometimes
+
 ### Dev Debate
 
 1. Some how a topic is picked (Microservices vs. Monolith)
@@ -15,12 +23,6 @@ possible segments for https://www.twitch.tv/benawad
 4. If I win the other person has to sub to me on Twitch otherwise I have to PayPal them $20
 
 note: a stake is required, but you can pick a different one if you want
-
-### Tech News
-
-- I go over today's HN & Reddit posts
-
-I'll be adding more ideas here as I think of them.
 
 ## Ideas that don't work
 
