@@ -15,6 +15,12 @@ I'll be adding more ideas here as I think of them.
 
 ## Maybe try
 
+play fortnite duos with Dan Abramov bro please
+
+ Next stream: teaching an angular dev react
+
+https://www.emojicode.org/
+
 ### live hacking - pentesting - capture the flag
 
 ### Code Review - could be more dry than regular coding - could be good if roastable
@@ -33,6 +39,8 @@ I'll be adding more ideas here as I think of them.
 4. If I win the other person has to sub to me on Twitch otherwise I have to PayPal them $20
 
 note: a stake is required, but you can pick a different one if you want
+
+main problem: no clear objective | how does twitch chat vote (there is currently no criteria) | unprepared 
 
 ## Ideas that don't work
 
