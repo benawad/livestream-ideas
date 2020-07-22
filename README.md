@@ -5,7 +5,7 @@ possible segments for https://www.twitch.tv/benawad
 
 ### Teaching someone how to code
 
-- Requires the person being taught to be clickbaitable
+- works best with other streamers/youtubers or girls
 
 ### Tech News
 
