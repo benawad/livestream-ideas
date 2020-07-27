@@ -7,27 +7,16 @@ possible segments for https://www.twitch.tv/benawad
 
 - works best with other streamers/youtubers or girls
 
-### Tech News
+#### Best Practices
 
-- I go over today's HN & Reddit posts
-
-I'll be adding more ideas here as I think of them.
+- Someone teaching me how to code doesn't work as well
+- Doing this with other programmers doesn't work as well because it gets too serious/advanced
 
 ## Maybe try
 
-play fortnite duos with Dan Abramov bro please
+- play fortnite duos with Dan Abramov bro please
 
- Next stream: teaching an angular dev react
-
-https://www.emojicode.org/
-
-### live hacking - pentesting - capture the flag
-
-### Code Review - could be more dry than regular coding - could be good if roastable
-
-### Mentoring random person
-
-"maybe a little challenge. You have to get random programming language that you have not used before and make the best application you can do in certain time"
+- Mentoring random person
 
 ## Sometimes
 
@@ -43,6 +32,13 @@ note: a stake is required, but you can pick a different one if you want
 main problem: no clear objective | how does twitch chat vote (there is currently no criteria) | unprepared 
 
 ## Ideas that don't work
+
+
+### Tech News
+
+- I go over today's HN & Reddit posts
+- I'm not really too interested in doing this // maybe if a good news topic came up
+
 
 ### Learning a programming language
 
